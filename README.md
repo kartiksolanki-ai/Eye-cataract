@@ -16,7 +16,7 @@ This repository is dedicated to advancing the field of ophthalmology by developi
 
 ✅ High Accuracy – Trained on a diverse dataset for robust performance.
 
-<img src="image2.png" alt="ADAS-PeVision Demo" width="500">
+<img src="epoch90.png" alt="ADAS-PeVision Demo" width="500">
 
 🛠 Technologies Used
 
